@@ -1,0 +1,409 @@
+
+icndy fonts
+1700px * 3469(900 + 1569? + 850 + 150)px
+
+
+
+
+/* HEADER */
+
+
+Slider BG
+
+width: 1700px;
+height: 901px;
+background-color: #1a1a1a;
+
+
+Text
+
+logo
+
+width: 224px;
+height: 90px;
+background-color: #ffffff;
+
+
+Mens Womens Brands
+
+font-size: 18px;
+letter-spacing: 6px;
+line-height: 40px;
+color: #ffffff;
+font-family: "Proxima Nova";
+font-weight: bold;
+
+
+Stussy 2014
+
+font-size: 60px;
+letter-spacing: 36px;
+line-height: 70px;
+color: #ffffff;
+font-family: "Proxima Nova";
+font-weight: 300;
+text-align: center;
+
+
+Arrow
+
+width: 85px;
+height: 85px;
+border-radius: 42px;
+background-color: #000000;
+border: 3px solid #ffffff;
+
+
+
+
+
+
+
+
+
+/* BODY TILES */
+
+
+/* Gourmet */
+
+Rectangle 2
+
+width: 982px;
+height: 776px;
+background-image: linear-gradient(0deg, #060606 0%, rgba(6,6,6,0) 100%);
+
+
+Shop Gourmet
+
+font-size: 60px;
+letter-spacing: 24px;
+line-height: 70px;
+color: #ffffff;
+font-family: "Proxima Nova";
+font-weight: 300;
+text-align: right;
+
+
+Layer 33
+
+background-color: #ffffff;
+
+
+
+
+/* Carhartt */
+
+Rectangle 2 copy
+
+width: 462px;
+height: 360px;
+background-image: linear-gradient(0deg, #0b0b0b 0%, rgba(11,11,11,0) 100%);
+
+
+layer 23
+
+background-color: #ffffff;
+
+
+
+
+Shop Carhartt
+
+font-size: 40px;
+letter-spacing: 16px;
+line-height: 70px;
+color: #ffffff;
+font-family: "Proxima Nova";
+font-weight: 300;
+text-align: right;
+
+
+/* Adidas */
+
+Rectangle 2 copy 3
+
+width: 462px;
+height: 360px;
+background-image: linear-gradient(0deg, #0b0b0b 0%, rgba(11,11,11,0) 100%);
+
+
+
+
+Shop Adidas
+
+font-size: 40px;
+letter-spacing: 16px;
+line-height: 70px;
+color: #ffffff;
+font-family: "Proxima Nova";
+font-weight: 300;
+text-align: right;
+
+
+Layer 24
+
+background-color: #ffffff;
+
+
+
+
+/* 10deep */
+
+
+Rectangle 2 copy 6
+
+width: 462px;
+height: 580px;
+background-image: linear-gradient(0deg, #0b0b0b 0%, rgba(11,11,11,0) 100%);
+
+
+10Deep Sale
+
+font-size: 40px;
+letter-spacing: 16px;
+line-height: 70px;
+color: #ffffff;
+font-family: "Proxima Nova";
+font-weight: 300;
+text-align: right;
+
+
+Layer 30
+
+background-color: #ffffff;
+
+
+
+
+/* Palace */
+
+
+Rectangle 2 copy 5
+
+width: 462px;
+height: 580px;
+background-image: linear-gradient(0deg, #0b0b0b 0%, rgba(11,11,11,0) 100%);
+
+
+Palace a/w 2014
+
+font-size: 40px;
+letter-spacing: 16px;
+line-height: 70px;
+color: #ffffff;
+font-family: "Proxima Nova";
+font-weight: 300;
+text-align: right;
+
+
+Layer 28
+
+background-color: #ffffff;
+
+
+
+
+/* Nike */
+
+
+Rectangle 2 copy 4
+
+width: 462px;
+height: 580px;
+background-image: linear-gradient(0deg, #0b0b0b 0%, rgba(11,11,11,0) 100%);
+
+
+Tech Pack
+
+font-size: 40px;
+letter-spacing: 16px;
+line-height: 70px;
+color: #ffffff;
+font-family: "Proxima Nova";
+font-weight: 300;
+text-align: right;
+
+
+Layer 26
+
+background-color: #ffffff;
+
+
+
+
+
+
+
+
+
+/* INSTAGRAM */
+
+
+BG
+
+width: 1700px;
+height: 850px;
+background-color: #1a1a1a;
+
+
+Rectangle
+
+width: 425px;
+height: 425px;
+background-color: #1a1a1a;
+
+
+#ICNDY ON INSTAGRAM
+
+font-size: 60px;
+letter-spacing: 36px;
+line-height: 70px;
+color: #ffffff;
+font-family: "Proxima Nova";
+font-weight: 300;
+text-align: center;
+
+
+
+
+
+
+
+
+
+/* FOOTER */
+
+
+Footer BG
+
+width: 1700px;
+height: 150px;
+background-color: #ffffff;
+
+
+Icndy2014 Privacy Terms
+
+font-size: 18px;
+letter-spacing: 6px;
+line-height: 40px;
+color: #1a1a1a;
+font-family: "Proxima Nova";
+font-weight: bold;
+
+
+Twitter
+
+width: 26px;
+height: 21px;
+background-color: #1a1a1a;
+
+
+Facebook
+
+width: 14px;
+height: 28px;
+background-color: #1a1a1a;
+
+
+Instagram
+
+width: 26px;
+height: 26px;
+background-color: #1a1a1a;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+font-size: 18px;
+letter-spacing: 6px;
+line-height: 40px;
+color: #ffffff;
+font-family: "Proxima Nova";
+font-weight: bold; //700
+
+
+font-size: 60px;
+letter-spacing: 36px;
+line-height: 70px;
+color: #ffffff;
+font-family: "Proxima Nova";
+font-weight: 300;
+text-align: center;
+
+
+font-size: 60px;
+letter-spacing: 24px;
+line-height: 70px;
+color: #ffffff;
+font-family: "Proxima Nova";
+font-weight: 300;
+text-align: right;
+
+
+font-size: 40px;
+letter-spacing: 16px;
+line-height: 70px;
+color: #ffffff;
+font-family: "Proxima Nova";
+font-weight: 300;
+text-align: right;
+
+
+font-size: 18px;
+letter-spacing: 6px;
+line-height: 40px;
+color: #1a1a1a;
+font-family: "Proxima Nova";
+font-weight: bold;
+
+
+
+
+@font-face {
+font-family: 'Proxima Nova Regular';
+src: url('ProximaNova-Regular.eot');
+src: url('ProximaNova-Regular.eot?#iefix') format('embedded-opentype'),
+url('ProximaNova-Regular.woff') format('woff'),
+url('ProximaNova-Regular.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+
+Стили и шрифты должны быть в одном каталоге, или нужно поменять путь к ним.
+Пример использования шрифта в стилях:
+
+.box-name {font-family: 'Proxima Nova Regular';}
+
+
+
+
+
+@font-face {
+font-family: 'Proxima Nova Bold';
+src: url('ProximaNova-Bold.eot');
+src: url('ProximaNova-Bold.eot?#iefix') format('embedded-opentype'),
+url('ProximaNova-Bold.woff') format('woff'),
+url('ProximaNova-Bold.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+
+Стили и шрифты должны быть в одном каталоге, или нужно поменять путь к ним.
+Пример использования шрифта в стилях:
+
+.box-name {font-family: 'Proxima Nova Bold';}
